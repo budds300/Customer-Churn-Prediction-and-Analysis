@@ -98,6 +98,7 @@ Here, you need to recursively install the packages in the `requirements.txt` fil
 ## 👥 Authors <a name="authors"></a>
 
 👩‍💻 **Tamminga Budds**
+👩‍💻 **Susan Sagina Adongo**
 
 - GitHub: [GitHub Profile](https://github.com/budds300)
 
