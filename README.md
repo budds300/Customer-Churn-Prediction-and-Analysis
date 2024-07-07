@@ -98,11 +98,15 @@ Here, you need to recursively install the packages in the `requirements.txt` fil
 ## 👥 Authors <a name="authors"></a>
 
 👩‍💻 **Tamminga Budds**
-👩‍💻 **Susan Sagina Adongo**
 
 - GitHub: [GitHub Profile](https://github.com/budds300)
 
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/tamminga-givondo-n/)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/tamminga-givondo/)
+
+👩‍💻 **Susan Sagina Adongo**
+- GitHub: [GitHub Profile](https://github.com/Sagina07)
+
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/susan-sagina-adongo/?originalSubdomain=ke)
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
